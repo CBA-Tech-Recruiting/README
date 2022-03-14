@@ -2,6 +2,12 @@
 
 The ultimate goal is to assess the candidate's passion for quality and activeness as a collaborator. An active collaborator who cares about quality will drive a healthy culture that lifts others in the squad.
 
+## Where are the repos?
+
+All repos are private, including the test templates.
+
+Please request access to the [CBA Engineers](https://github.com/orgs/CBA-Tech-Recruiting/teams/cba-engineers) by pinging one of the maintainers.
+
 ## Format
 
 Each candidate will have a private git repo created for them, with a pull request upon which they are to perform a review.
