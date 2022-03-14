@@ -8,7 +8,7 @@ All repos are private, including the test templates.
 
 As a candidate, you will be granted access to a repo set up for yourself, and the link will be provided by your recruiter.
 
-As a CBA employee, request access to the [CBA Engineers](https://github.com/orgs/CBA-Tech-Recruiting/teams/cba-engineers) team by pinging one of the org maintainers.
+As a CBA employee, request access to the [CBA Engineers](https://github.com/orgs/CBA-Tech-Recruiting/teams/cba-engineers) team by pinging one of the [org owners](https://github.com/orgs/CBA-Tech-Recruiting/people?query=role%3Aowner).
 
 ## Format
 
