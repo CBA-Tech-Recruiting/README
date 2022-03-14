@@ -6,7 +6,9 @@ The ultimate goal is to assess the candidate's passion for quality and activenes
 
 All repos are private, including the test templates.
 
-Please request access to the [CBA Engineers](https://github.com/orgs/CBA-Tech-Recruiting/teams/cba-engineers) by pinging one of the maintainers.
+As a candidate, you will be granted access to a repo set up for yourself, and the link will be provided by your recruiter.
+
+As a CBA employee, request access to the [CBA Engineers](https://github.com/orgs/CBA-Tech-Recruiting/teams/cba-engineers) by pinging one of the maintainers.
 
 ## Format
 
