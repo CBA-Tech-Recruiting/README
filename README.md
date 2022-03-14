@@ -23,8 +23,8 @@ We will assess their submission and discuss it in the technical interview.
 ### Preparation
 
 1. Generate the candidate repo from the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) in this org. Each template is effectively a test, and so they form the test catalog.
-2. Ensure the repository is `private`
-3. Invite the candidate to our org and add them as a collaborator to their repo
+2. Ensure the repository is `private`.
+3. Invite the candidate to our org and add them as a collaborator to their repo.
 4. Provide a link to your Talent Aquisition contact who will pass it on to the candidate.
 
 ### Exam
@@ -38,5 +38,5 @@ Discuss their submission.
 ### Post interview
 
 1. Share the feedback to the candidate.
-1. After a week or so, delete the candidate's repo
-1. Remove the candidate from the organisation
+1. After a week or so, delete the candidate's repo.
+1. Remove the candidate from the organisation.
